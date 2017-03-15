@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Arkanoid3d.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GM.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Paddle.cs" Line="345" Column="26" />
+      <File FileName="Assets\Scripts\GM.cs" Line="126" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
